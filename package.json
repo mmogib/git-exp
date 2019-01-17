@@ -1,0 +1,12 @@
+{
+  "name": "git-exp",
+  "version": "1.0.0",
+  "description": "Testing GIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "Dr. Mohammed Alshahrani",
+  "license": "ISC"
+}
